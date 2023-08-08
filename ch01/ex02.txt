@@ -1,0 +1,10 @@
+---Prove: sum [x] = x for any number x
+
+---Definition:
+sum [] = 0
+sum (n:ns) = n + sum ns
+
+
+sum [x] = x + sum [] 
+        = x + 0
+        = x

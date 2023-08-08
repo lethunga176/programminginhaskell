@@ -1,0 +1,13 @@
+double (double 2) 
+= {applying outer double}
+double 2 + double 2
+= {applying first double}
+2 + 2 + double 2
+= {applying second double}
+2 + 2 + 2 + 2
+= {applying first + }
+4 + 2 +2
+= {applying fisrt +}
+6 + 2
+= {applying +}
+8
