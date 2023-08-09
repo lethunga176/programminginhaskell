@@ -1,0 +1,2 @@
+not feasible beacuse the domain is too big
+feasible when domain is small enough, ie type Bool
